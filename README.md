@@ -29,6 +29,8 @@ brew install grishka/grishka/neardrop && sudo xattr -r -d com.apple.quarantine "
 
 Pull requests that change the readme will not be accepted.
 
+Any AI-assisted contributions will not be accepted.
+
 ## FAQ
 
 #### The app would not open because "Apple cannot check it for malicious software", you gotta fix your shit
